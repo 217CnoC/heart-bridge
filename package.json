@@ -23,7 +23,7 @@
     "date-fns": "^4.1.0",
     "framer": "^2.4.1",
     "js-cookie": "^3.0.5",
-    "next": "14.2.15",
+    "next": "14.2.24",
     "nextjs-toploader": "^3.7.15",
     "node-appwrite": "^14.1.0",
     "react": "^18",
